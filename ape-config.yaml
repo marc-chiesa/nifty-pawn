@@ -1,0 +1,6 @@
+name: nifty-pawn
+plugins:
+  - name: vyper
+
+vyper:
+  evm_version: "paris"
